@@ -1,6 +1,6 @@
 # Stock Analysis of Wall Street
 ## Description:
-Module 2 challenge is in [VBA of Wall Street_green_stocks](https://github.com/SaraPnm/Challenge-2_VBA-of-Wall-Street/raw/master/VBA%20%20of%20Wall%20Street_green_stocks.xlsm)
+Module 2 challenge is in [VBA of Wall Street_green_stocks](https://github.com/SaraPnm/Challenge-2_VBA-of-Wall-Street/raw/master/VBA%20of%20Wall%20Street_green_stocks.xlsm)
 In this module, we're helping Steve to analyze the stock data for his parents' investment.
 
 
